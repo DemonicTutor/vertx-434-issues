@@ -1,0 +1,9 @@
+# mvn
+**/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VertX
+file-uploads/
